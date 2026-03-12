@@ -64,7 +64,7 @@ Edit `.env` with your values:
 ```env
 MONGO_URI=mongodb://localhost:27017      # or your Atlas URI
 DB_NAME=adaptive_engine
-ANTHROPIC_API_KEY=sk-ant-...            # from console.anthropic.com
+OPENAI_API_KEY=sk-...            # from console.anthropic.com
 ```
 
 > ⚠️ **Make sure your MongoDB server is running** before attempting to seed. For a local installation start `mongod`, or use a valid Atlas URI.
