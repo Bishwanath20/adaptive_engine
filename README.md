@@ -1,5 +1,4 @@
 # 🧠 Adaptive Diagnostic Engine
-
 A **1D Adaptive Testing System** that estimates a student's ability in real-time using **Item Response Theory (IRT)** and generates a **personalized study plan** via the Anthropic Claude API.
 
 ---
